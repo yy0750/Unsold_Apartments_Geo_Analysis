@@ -45,6 +45,6 @@
 
 ## 참고사항
 서울시 미분양주택 현환 통계: https://data.seoul.go.kr/dataList/10741/S/2/datasetView.do <br>
-서울시 주민등록인구 (구별) 통계: https://data.seoul.go.kr/dataList/419/S/2/datasetView.do
-국토교통 통계누리: https://stat.molit.go.kr/portal/main/portalMain.do
+서울시 주민등록인구 (구별) 통계: https://data.seoul.go.kr/dataList/419/S/2/datasetView.do <br>
+국토교통 통계누리: https://stat.molit.go.kr/portal/main/portalMain.do <br>
 국토교통부 공간빅데이터 분석플랫폼: http://geobigdata.go.kr/portal/case/standardList.do
