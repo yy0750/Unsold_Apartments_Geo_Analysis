@@ -42,3 +42,9 @@
 - 변수들 간의 상관관계를 조사하고 최적 군집 수를 결정하기 위해 Elbow Method 사용
 - Folium 지리 정보 시각화 도구를 활용하여 연도별 미분양 지역을 표시
 ```
+
+## 참고사항
+서울시 미분양주택 현환 통계: https://data.seoul.go.kr/dataList/10741/S/2/datasetView.do#
+서울시 주민등록인구 (구별) 통계: https://data.seoul.go.kr/dataList/419/S/2/datasetView.do
+국토교통 통계누리: https://stat.molit.go.kr/portal/main/portalMain.do
+국토교통부 공간빅데이터 분석플랫폼: http://geobigdata.go.kr/portal/case/standardList.do
